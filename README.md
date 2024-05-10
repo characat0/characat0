@@ -1,4 +1,4 @@
-### Hi there 👋
+### I make code that runs on *big* machines
 
 <!--
 **characat0/characat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
